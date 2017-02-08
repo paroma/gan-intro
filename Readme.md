@@ -1,3 +1,4 @@
+Note that each cell in the notebook has to be run after restarting the kernel. Run > Restart > Run ...
 # An introduction to Generative Adversarial Networks
 
 This is the code that we used to generate our GAN 1D Gaussian approximation.
